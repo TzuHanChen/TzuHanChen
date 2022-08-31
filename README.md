@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 設計並開發一個醫療論壇。我負責使用者體驗與網頁後端。
 
 * 列出使用者的需求、規劃該有的功能與操作流程。
-* 用 Miro 繪製實體關係模型圖、XAMPP + MySQL 建置資料表、PHP 實作各項功能。
+* 繪製實體關係模型圖、建置資料表、實作各項功能。
 
 ### 2017/09 ~ 2021/06 國立台中教育大學 - 學士
 
@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 ## 聯絡資訊
 
 台灣，台北市
-
-0978429891
 
 [hahachentzuhan@gmail.com](hahachentzuhan@gmail.com)
 
