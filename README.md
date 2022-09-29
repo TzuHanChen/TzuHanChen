@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 
 ## 聯絡資訊
 
-台灣，台北市
-
 [hahachentzuhan@gmail.com](hahachentzuhan@gmail.com)
 
 [codepen.io/tzuhanchen](https://codepen.io/tzuhanchen)
