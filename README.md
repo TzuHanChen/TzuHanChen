@@ -19,9 +19,17 @@ Here are some ideas to get you started:
 
 ## 認可、經歷、學歷
 
+### 2022/11 ~ 現今 亞瑞特數位社群行銷有限公司 - 前端網頁實習生
+
+Arete亞瑞特數位社群行銷擁有專精的數位社群行銷人才，為首創全員證照化、最專業的數位社群行銷公司。
+
+### 2022/09 ~ 現今 JerryFriends - 網頁開發組成員
+
+JerryFriends 是一個新創團隊夥伴牽線平台。
+
 ### 2021/05 放視大賞 - 入圍
 
-畢業專題珍食力入圍 2021 放視大賞的行動應用類 - 軟體內容－創意企劃組。我負責使用者體驗與介面設計。
+與同學們合力完成的畢業專題＂珍食力＂。入圍 2021 放視大賞的行動應用類 - 軟體內容－創意企劃組。我負責使用者體驗與介面設計。
 
 * 從使用者訪談的結果中找出消費者產生剩食的原因。
 * 列出消費者的痛點與需求，規劃可以解決問題的功能與操作流程。
@@ -29,24 +37,33 @@ Here are some ideas to get you started:
 
 ### 2020/07 ~ 08 眾匯智能健康股份有限公司 - 實習生
 
-設計並開發一個醫療論壇。我負責使用者體驗與網頁後端。
+與同學們合力設計並開發一個醫療論壇。我負責使用者體驗與網頁後端。
 
 * 列出使用者的需求、規劃該有的功能與操作流程。
 * 繪製實體關係模型圖、建置資料表、實作各項功能。
 
 ### 2017/09 ~ 2021/06 國立台中教育大學 - 學士
 
-就讀數位內容科技學系。
+就讀數位內容科技學系。選修三個群組課程（數位學習、數位技術應用、數位設計）的後兩個。
 
 ## 技能
 
 * 網頁前端 SCSS, CSS, HTML
 * 版本控制 Git, GitHub
-* 介面設計、使用者體驗 Figma, Miro
-* 網頁後端 PHP, XAMPP, MySQL
+* 介面設計、使用者體驗 Figma, FigJam, Miro
 
 ## 聯絡資訊
 
-[hahachentzuhan@gmail.com](hahachentzuhan@gmail.com)
+台灣，台北市
 
-[codepen.io/tzuhanchen](https://codepen.io/tzuhanchen)
+0978429891
+
+[hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
+
+[Codepen](https://codepen.io/tzuhanchen)、[LinkedIn](https://www.linkedin.com/in/%E9%99%B3%E5%AD%90%E6%B6%B5tzuhanchen/)
+
+[Sololearn](https://www.sololearn.com/profile/1183438)、[Codewars](https://www.codewars.com/users/TzuHan_Chen)
+
+## 個人網站
+
+[TzuHanChen.github.io](https://github.com/TzuHanChen/TzuHanChen.github.io)
