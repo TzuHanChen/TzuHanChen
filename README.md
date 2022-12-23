@@ -60,7 +60,7 @@ JerryFriends 是一個新創團隊夥伴牽線平台。
 
 [hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
 
-[Codepen](https://codepen.io/tzuhanchen)、[LinkedIn](https://www.linkedin.com/in/%E9%99%B3%E5%AD%90%E6%B6%B5tzuhanchen/)
+[Codepen](https://codepen.io/tzuhanchen)、[LinkedIn](https://www.linkedin.com/in/tzuhanchen/)
 
 [Sololearn](https://www.sololearn.com/profile/1183438)、[Codewars](https://www.codewars.com/users/TzuHan_Chen)
 
