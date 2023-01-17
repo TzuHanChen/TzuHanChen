@@ -31,22 +31,18 @@ Here are some ideas to get you started:
 
 ### 2021/05 放視大賞 - 入圍
 
-與同學們合力完成的畢業專題＂珍食力＂。入圍 2021 放視大賞的行動應用類 - 軟體內容－創意企劃組。我負責使用者體驗與介面設計。
-
 * 從使用者訪談的結果中找出消費者產生剩食的原因。
 * 列出消費者的痛點與需求，規劃可以解決問題的功能與操作流程。
 * 製作手機應用程式的原型，做易用性測試以收集建議，有 75% 的測試者表示會想把這個應用程式推薦給別人，並且得到 8.5/10 的整體評價。
 
 ### 2020/07 ~ 08 眾匯智能健康股份有限公司 - 實習生
 
-與同學們合力設計並開發一個醫療論壇。我負責使用者體驗與網頁後端。
-
 * 列出使用者的需求、規劃該有的功能與操作流程。
-* 用 Miro 繪製實體關係模型圖、XAMPP + MySQL 建置資料表、PHP 實作各項功能。
+* 繪製實體關係模型圖、XAMPP + MySQL 建置資料表、PHP 實作各項功能。
 
 ### 2017/09 ~ 2021/06 國立台中教育大學 - 學士
 
-就讀數位內容科技學系。選修三個群組課程（數位學習、數位技術應用、數位設計）的後兩個。
+就讀數位內容科技學系。群組課程（數位學習、數位技術應用、數位設計）選修後兩個。
 
 ## 技能
 
@@ -62,7 +58,7 @@ Here are some ideas to get you started:
 
 [hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
 
-[Codepen](https://codepen.io/tzuhanchen)、[LinkedIn](https://www.linkedin.com/in/tzuhanchen/)
+[LinkedIn](https://www.linkedin.com/in/tzuhanchen/)、[Codepen](https://codepen.io/tzuhanchen)
 
 [Sololearn](https://www.sololearn.com/profile/1183438)、[Codewars](https://www.codewars.com/users/TzuHan_Chen)
 
