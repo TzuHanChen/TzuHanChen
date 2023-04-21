@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 協助正職員工完成網頁切版、前後端分離、功能實作。
 
-### 2022/09 ~ 現今 JerryFriends - 前端工程師
+### 2022/09 ~ 現今 Teamie - 前端工程師
 
 * 整理訪談問題，將訪談結果拆解成多個關鍵字並分類、製作人物誌。
 * 針對需求與階段目標設計功能，製作資訊架構、功能流程圖、介面流程圖、線框圖。
-* 將團隊成員製作的設計稿用 React + MUI + TypeScript + Next.js 做成網頁。
+* 將團隊成員製作的設計稿用 React + MUI + TypeScript 做成網頁。
 
 ### 2021/05 放視大賞 - 入圍
 
