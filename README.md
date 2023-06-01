@@ -45,7 +45,7 @@ Teamie 是一個正在打造專案夥伴媒合平台的新創團隊。
 
 ## 技能
 
-* 網頁前端　React, JS, SCSS, HTML
+* 網頁前端　React, JavaScript, SCSS, HTML
 * 版本控制　Git, GitHub, GitLab
 
 ## 證書
@@ -62,11 +62,11 @@ Teamie 是一個正在打造專案夥伴媒合平台的新創團隊。
 
 ## 聯絡資訊
 
-台灣，台北市
+居住地：台灣，台北市
 
-0978429891
+手機：0978429891
 
-[hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
+電子信箱：[hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/tzuhanchen/)
 
