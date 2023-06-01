@@ -45,8 +45,8 @@ Teamie 是一個正在打造專案夥伴媒合平台的新創團隊。
 
 ## 技能
 
-* 網頁前端 React, JS, SCSS, HTML
-* 版本控制 Git, GitHub, GitLab
+* 網頁前端　React, JS, SCSS, HTML
+* 版本控制　Git, GitHub, GitLab
 
 ## 證書
 
@@ -58,9 +58,7 @@ Teamie 是一個正在打造專案夥伴媒合平台的新創團隊。
 
 ### 放視大賞 - 入圍　2021/05
 
-畢業專題＂珍食力＂入圍 2021 放視大賞的行動應用類 - 軟體內容創意企劃組決賽。
-
-[放視大賞得獎作品頁面](https://www.dcaward-vgw.org.tw/tw/onlineExhibition/winningWorks/detail/31427)
+畢業專題＂珍食力＂入圍 2021 放視大賞的行動應用類 - 軟體內容創意企劃組決賽。[放視大賞得獎作品頁面](https://www.dcaward-vgw.org.tw/tw/onlineExhibition/winningWorks/detail/31427)
 
 ## 聯絡資訊
 
