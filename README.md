@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 你好，我是陳子涵，目標是成為前端工程師
+# 你好，我是陳子涵
 
-　　我目前使用 Next.js, React, Bootstrap, SCSS 等前端工具，完成實習、接案、新創的多項專案與任務。之前有接觸過介面設計、使用者體驗、後端開發，現在仍有持續利用這些經歷，與負責這些職位的夥伴討論、溝通與合作。我是一個冷靜、理性的人，遵循流程的同時保有調整的彈性。如果你想找我聊聊新的合作機會，請聯繫我！
+## 之前是前端網頁實習生，現在的目標是成為前端工程師
+
+　　我目前使用 Next.js, React, TypeScript, SWR, SCSS 等前端工具，完成實習、接案、新創的多項專案與任務。之前有接觸過介面設計、使用者體驗、後端開發，現在仍有持續利用這些經歷，與負責這些職位的夥伴討論、溝通與合作。我是一個冷靜、理性的人，遵循流程的同時保有調整的彈性。如果你想找我聊聊新的合作機會，請聯繫我！
 
 ## 經歷
 
 ### Teamie - 前端工程師　2022/09 ~ 現今
 
-Teamie 是一個新創團隊，我們的目標是打造一個專案夥伴媒合平台。
+Teamie 是一個學生新創團隊，我們的目標是打造一個專案夥伴媒合平台。
 
 * 使用 Next.js + Bootstrap + SCSS，編輯樣式、製作元件、網頁切版。
 * 與前端夥伴合作開發：個人、專案、其它 (動態、動態、靜態頁面)。
@@ -39,23 +41,18 @@ Teamie 是一個新創團隊，我們的目標是打造一個專案夥伴媒合�
 * 開發論壇網站的帳號、文章、留言、收藏、追蹤等功能。
 * 參與使用者體驗規劃，負責後端，與介面設計和前端的同學合作。
 
-## 學歷
-
-### 國立台中教育大學 - 學士　2017/09 ~ 2021/06
-
-就讀數位內容科技學系。選修兩個群組課程：數位技術應用、數位設計。
-
 ## 技能
 
-* 網頁前端　Next.js, React, SCSS
+* 網頁前端　Next.js, React, TypeScript, SWR, SCSS
 * 版本控制　Git, GitHub, GitLab
 * 介面設計、使用者體驗　Figma, FigJam, Miro
 
 ## 證書
 
-[Google Analytics (分析) 認證](https://www.credential.net/e8426561-bf2b-4951-816e-4bdfeeb6a6c7)　2023/05
+參加 [Google 數位人才探索計畫](https://growonairtw.withgoogle.com/events/digitaleducation)，於 2023/05 取得
 
-[Google 數位人才結業證書](https://oss.uppmkt.com/202305/kep/cer3/ga4/YHhGjM.png)　2023/05
+* [Google Analytics (分析) 認證](https://www.credential.net/e8426561-bf2b-4951-816e-4bdfeeb6a6c7)
+* [Google 數位人才結業證書](https://oss.uppmkt.com/202305/kep/cer3/ga4/YHhGjM.png)
 
 ## 認可
 
@@ -67,16 +64,24 @@ Teamie 是一個新創團隊，我們的目標是打造一個專案夥伴媒合�
 
 [放視大賞得獎作品頁面](https://www.dcaward-vgw.org.tw/tw/onlineExhibition/winningWorks/detail/31427)
 
+## 學歷
+
+### 國立台中教育大學 - 學士　2017/09 ~ 2021/06
+
+就讀數位內容科技學系。選修兩個群組課程：數位技術應用、數位設計。
+
 ## 聯絡資訊
 
 居住地：台灣，台北市
 
-手機：0978429891
-
 電子信箱：[hahachentzuhan@gmail.com](mailto:hahachentzuhan@gmail.com)
+
+## 網站連結
+
+[Vercel](https://vercel.com/tzuhanchen)
 
 [LinkedIn](https://www.linkedin.com/in/tzuhanchen/)
 
 ## 個人網站
 
-[TzuHanChen.github.io](https://github.com/TzuHanChen/TzuHanChen.github.io)
+[陳子涵 TzuHanChen](https://tzuhanchen.vercel.app/)
