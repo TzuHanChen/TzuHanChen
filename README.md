@@ -29,24 +29,17 @@ Here are some ideas to get you started:
 
 ### 前端工程師　樂倍達數位科技股份有限公司　2023/09 ~ 現今
 
-* 參與客戶公司的專案開發 (視訊會議網站)，使用 React + styledcomponents 調整介面與功能, 使用 Transifex 串接多語系字串。於新增功能之前，整合客戶需求和技術可行性，製作流程圖和線框圖，再實作畫面與功能、串接客戶提供的 API。原本手動回歸測試耗時 40 分鐘，撰寫Playwright 自動化腳本，耗時縮減至 5 分鐘。
-
+* 參與客戶公司的專案開發 (視訊會議網站)，使用 React + styled-components 調整介面與功能, 使用 Transifex 串接多語系字串。於新增功能之前，整合客戶需求和技術可行性，製作流程圖和線框圖，再實作畫面與功能、串接客戶提供的 API。原本手動回歸測試耗時 40 分鐘，撰寫Playwright 自動化腳本，耗時縮減至 5 分鐘。
 * 參與客戶公司的新增功能開發 (網路電話彈出視窗)，根據客戶需求和客戶公司提供的 Next.js + SIP.js 專案，製作流程圖和線框圖，再加入 Tailwind CSS + Headless UI + Web Audio API (MediaStream, AudioContext) 實作畫面與功能，把各種狀態和事件的紀錄送到客戶公司的 API。
-
 * 參與自己公司的產品開發 (物流服務)，使用 HTML + Tailwind CSS + JavaScript 切版，撰寫 GitLab CICD pipeline 腳本、設定環境變數，自動部署到測試版網址，手動部署到正式版網址。
 
 ### 前端工程師　Teamie 專案夥伴媒合平台　2022/09 ~ 現今
 
 * Teamie 是一個業餘專案，致⼒為學⽣及初⼊職場的新鮮人媒合專案夥伴，打造跨專業、跨地區的合作機會。
-
 * 使用 Next.js + Tailwind CSS + TypeScript + clsx + Feather Icons + Headless UI 製作元件與頁面、實作各項功能。
-
 * 在 Zeabur 專案中新增兩個前端服務，設定相同 GitHub repo 的不同分支，分別自動部署到測試版與正式版網址。
-
 * 與後端夥伴合作規劃所需資料表、調整 API 規格，再根據 Swagger 文件，使用 React Hook Form 串接 RESTful API 實作各種表單、處理錯誤訊息。
-
 * 參與前期使用者訪談、需求分析、網站架構與功能操作流程規畫，針對介面設計稿提出前端技術可行性建議。
-
 * 撰寫前端 Markdown 文件，利用此文件與原始碼向新加入的前端夥伴說明，目前網站有使用的工具、已完成的功能、撰寫程式碼須注意的規範。
 
 ### 前端網頁實習生　亞瑞特數位社群行銷有限公司　2022/11 ~ 2023/04
